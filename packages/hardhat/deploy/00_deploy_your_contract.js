@@ -25,7 +25,11 @@ module.exports = async ({ getNamedAccounts, deployments, getChainId }) => {
     from: deployer,
     args: [
       "0x0C18c23BA67d0324564a2Bedf0cd7200b3406BA3",
-      "0x0C18c23BA67d0324564a2Bedf0cd7200b3406BA3",
+      // "0x0C18c23BA67d0324564a2Bedf0cd7200b3406BA3",
+      // "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+      "0x36A260e86284eBdf2bE3FE2C8DC49c61edE2F576", // the merovinglan own wallet
+      "0xCa07b50d1F357f45784eE959E801B1bb0c2090B5",   // the merovinglan own wallet for liquidity
+      "0x36A260e86284eBdf2bE3FE2C8DC49c61edE2F576",   // the merovinglan own wallet for trading
     ],
     log: true,
     waitConfirmations: 5,

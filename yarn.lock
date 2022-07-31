@@ -2750,10 +2750,10 @@
     "mkdirp" "^1.0.4"
     "rimraf" "^3.0.2"
 
-"@openzeppelin/contracts@^4.4.2":
-  "integrity" "sha512-NyJV7sJgoGYqbtNUWgzzOGW4T6rR19FmX1IJgXGdapGPWsuMelGJn9h03nos0iqfforCbCB0iYIR0MtIuIFLLw=="
-  "resolved" "https://registry.npmjs.org/@openzeppelin/contracts/-/contracts-4.4.2.tgz"
-  "version" "4.4.2"
+"@openzeppelin/contracts@^4.4.2", "@openzeppelin/contracts@^4.7.2":
+  "integrity" "sha512-4n/JL9izql8303mPqPdubuna/DWEMbmOzWYUWyCPhjhiEr2w3nQrjE7vZz1fBF+wzzP6dZbIcsgqACk53c9FGA=="
+  "resolved" "https://registry.npmjs.org/@openzeppelin/contracts/-/contracts-4.7.2.tgz"
+  "version" "4.7.2"
 
 "@pmmmwh/react-refresh-webpack-plugin@0.4.2":
   "integrity" "sha512-Loc4UDGutcZ+Bd56hBInkm6JyjyCwWy4t2wcDXzN8EDPANgVRj0VP8Nxn0Zq2pc+WKauZwEivQgbDGg4xZO20A=="
@@ -7462,7 +7462,7 @@
   "version" "2.2.0"
 
 "cli-cursor@^2.1.0":
-  "integrity" "sha1-s12sN2R5+sw+lHR9QdDQ9SOP/LU="
+  "integrity" "sha512-8lgKz8LmCRYZZQDpRyT2m5rKJ08TnU4tR9FFFW2rxpxR1FzWi4PQ/NfyODchAatHaUgnSPVcx/R5w6NuTBzFiw=="
   "resolved" "https://registry.npmjs.org/cli-cursor/-/cli-cursor-2.1.0.tgz"
   "version" "2.1.0"
   dependencies:
